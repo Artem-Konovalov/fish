@@ -63,6 +63,10 @@ document.querySelectorAll('.pop_up_close').forEach((button) => {
 });
 
 
+
+$('body').bind('touchstart', function () {});
+
+
   
 
   
